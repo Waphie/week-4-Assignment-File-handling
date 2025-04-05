@@ -1,0 +1,5 @@
+Hello there, this is the first line.
+Python programming is fun.
+We are learning file handling.
+This is the fourth line.
+And this is the last one.
